@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning ... Deep Learning
 - 👨‍ I'm currently student at GMR Institute Of Technology, pursuing my B.Tech Degree
 - 🚀 I'm also working as a Student Co-ordinator for DSC
-- 🤔 Areas of Intrest: Machine Learning, Deep Learnin
+- 🤔 Areas of Intrest: Machine Learning, Deep Learning
 - 🥺 I’m looking for help with ... Django, Flask, BootStrap
 - 📫 How to reach me: ...nidhi.potta@gmail.com
 - 😄 Pronouns: ...Her
@@ -70,7 +70,7 @@
     <a href="#"><img alt="OpenCv" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"></a>
  </p>   
     
-### 🗄️ Databases and cloud hosting
+### 🗄️ Databases
 <p>   
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white"></a> 
 </p>
